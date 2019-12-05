@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on DaWei&#39;s blog</title>
+    <link>https://ninninninja.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on DaWei&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_us</language>
+    <copyright>All rights reserved - 2017</copyright>
+    <lastBuildDate>Thu, 05 Dec 2019 03:19:48 -0500</lastBuildDate>
+    
+	<atom:link href="https://ninninninja.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stochastic Simulation Algorithms</title>
+      <link>https://ninninninja.github.io/post/stochastic-simulation-algorithms/</link>
+      <pubDate>Thu, 05 Dec 2019 03:19:48 -0500</pubDate>
+      
+      <guid>https://ninninninja.github.io/post/stochastic-simulation-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Build Github webpage by Hugo</title>
+      <link>https://ninninninja.github.io/post/build-gitpage-by-hugo/</link>
+      <pubDate>Wed, 08 Feb 2017 22:07:46 +0800</pubDate>
+      
+      <guid>https://ninninninja.github.io/post/build-gitpage-by-hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
