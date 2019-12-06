@@ -3,13 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ninninninja.github.io/tags/biophysics/</loc>
-    <lastmod>2019-12-05T18:49:06-05:00</lastmod>
+    <loc>https://ninninninja.github.io/</loc>
+    <lastmod>2019-12-06T14:51:43-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ninninninja.github.io/</loc>
+    <loc>https://ninninninja.github.io/tags/math/</loc>
+    <lastmod>2019-12-06T14:51:43-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ninninninja.github.io/post/math-modeling-love-story/</loc>
+    <lastmod>2019-12-06T14:51:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ninninninja.github.io/tags/nonlineardynamics/</loc>
+    <lastmod>2019-12-06T14:51:43-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ninninninja.github.io/post/</loc>
+    <lastmod>2019-12-06T14:51:43-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ninninninja.github.io/tags/sciencelife/</loc>
+    <lastmod>2019-12-06T14:51:43-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ninninninja.github.io/tags/</loc>
+    <lastmod>2019-12-06T14:51:43-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ninninninja.github.io/tags/biophysics/</loc>
     <lastmod>2019-12-05T18:49:06-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -26,19 +61,7 @@
   </url>
   
   <url>
-    <loc>https://ninninninja.github.io/post/</loc>
-    <lastmod>2019-12-05T18:49:06-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ninninninja.github.io/tags/synbio/</loc>
-    <lastmod>2019-12-05T18:49:06-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ninninninja.github.io/tags/</loc>
     <lastmod>2019-12-05T18:49:06-05:00</lastmod>
     <priority>0</priority>
   </url>

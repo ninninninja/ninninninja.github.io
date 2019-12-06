@@ -7,13 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en_us</language>
     <copyright>All rights reserved - 2017</copyright>
-    <lastBuildDate>Thu, 05 Dec 2019 18:49:06 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2019 14:51:43 -0500</lastBuildDate>
     
 	<atom:link href="https://ninninninja.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Membraneless Organelle</title>
+      <title>Mathmatical modeling for love story of Romeo and Juliet</title>
+      <link>https://ninninninja.github.io/post/math-modeling-love-story/</link>
+      <pubDate>Fri, 06 Dec 2019 14:51:43 -0500</pubDate>
+      
+      <guid>https://ninninninja.github.io/post/math-modeling-love-story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bubbles inside our cells</title>
       <link>https://ninninninja.github.io/post/synthetic-membraneless-organelle/</link>
       <pubDate>Thu, 05 Dec 2019 18:49:06 -0500</pubDate>
       
