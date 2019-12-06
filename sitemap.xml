@@ -3,8 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ninninninja.github.io/tags/biophysics/</loc>
+    <lastmod>2019-12-05T18:49:06-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ninninninja.github.io/</loc>
-    <lastmod>2019-12-05T03:19:48-05:00</lastmod>
+    <lastmod>2019-12-05T18:49:06-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ninninninja.github.io/post/synthetic-membraneless-organelle/</loc>
+    <lastmod>2019-12-05T18:49:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ninninninja.github.io/tags/phaseseparation/</loc>
+    <lastmod>2019-12-05T18:49:06-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ninninninja.github.io/post/</loc>
+    <lastmod>2019-12-05T18:49:06-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ninninninja.github.io/tags/synbio/</loc>
+    <lastmod>2019-12-05T18:49:06-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ninninninja.github.io/tags/</loc>
+    <lastmod>2019-12-05T18:49:06-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -21,20 +56,8 @@
   </url>
   
   <url>
-    <loc>https://ninninninja.github.io/post/</loc>
-    <lastmod>2019-12-05T03:19:48-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ninninninja.github.io/post/stochastic-simulation-algorithms/</loc>
     <lastmod>2019-12-05T03:19:48-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ninninninja.github.io/tags/</loc>
-    <lastmod>2019-12-05T03:19:48-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

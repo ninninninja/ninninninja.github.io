@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en_us</language>
     <copyright>All rights reserved - 2017</copyright>
-    <lastBuildDate>Thu, 05 Dec 2019 03:19:48 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2019 18:49:06 -0500</lastBuildDate>
     
 	<atom:link href="https://ninninninja.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Membraneless Organelle</title>
+      <link>https://ninninninja.github.io/post/synthetic-membraneless-organelle/</link>
+      <pubDate>Thu, 05 Dec 2019 18:49:06 -0500</pubDate>
+      
+      <guid>https://ninninninja.github.io/post/synthetic-membraneless-organelle/</guid>
+      <description>Phase separation in biological systems Phase separation is a common physical phenomenon. During the past decade, many researches have proved it takes part in cellular programs such as stress response, metabolisms and development. Personally, I would like to divide the phase separation processes in cell into two groups, liquid-liquid phase separation (LLPS) and liquid-to-solid phase separation. Although the formation of the both processes rely on the similar mechanism, the properties are quite different and can contribute to different biological programs.</description>
+    </item>
     
     <item>
       <title>Stochastic Simulation Algorithms</title>
